@@ -8,7 +8,7 @@ my contact information.
 
 ![Image of first website](https://github.com/Brownies-SE/My_Portfolio/blob/main/assets/img/fullImage.png)
 
-# Intallation
+# Installation
 
 No installation needed, just click this link: https://brownies-se.github.io/My_Portfolio/
 
@@ -23,4 +23,5 @@ N/A
 # Project Status
 
 Always looking to be improved
+
 # Updated-Portfolio
