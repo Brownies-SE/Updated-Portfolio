@@ -1,16 +1,14 @@
-# My_Portfolio
+# Portfolio
 
 # Description
 
-This project was to test the understanding of basic HTML and CSS. This is a mock-up of my first portfolio. There will be many more updated versions to come.
-You will find some projects I have worked on recently as well as other from the past. There is a section that includes a little bit of my background and another with
-my contact information.
+This is my personal portfolio. It has a header with navigation bar on the right side of the header. Each link will take you to the spot it represents. Below the header I have created an about me section that shows a little bit of my background. Below the about me section, I have three of the biggest projects I have created so far. My contact information is at the bottom.
 
-![Image of first website](https://github.com/Brownies-SE/My_Portfolio/blob/main/assets/img/fullImage.png)
+![Image of first website](https://github.com/Brownies-SE/Updated-Portfolio/blob/main/assets/img/capture.png)
 
 # Installation
 
-No installation needed, just click this link: https://brownies-se.github.io/My_Portfolio/
+No installation needed, just click this link: https://brownies-se.github.io/Updated-Portfolio/
 
 # Contributing
 
@@ -23,5 +21,3 @@ N/A
 # Project Status
 
 Always looking to be improved
-
-# Updated-Portfolio
