@@ -1,0 +1,112 @@
+/* Making everthing a border-box */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  color: black;
+  font-weight: bold;
+  margin: 0;
+  display: flex;
+  font-size: 20px;
+  line-height: 1.5;
+  flex-direction: column;
+}
+/* Fixing the header for alignment and color */
+header {
+  padding: 15px;
+  background: #5d5c61;
+  color: white;
+  font-size: 36px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+}
+/* making the list a flexbox */
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  min-width: 7%;
+  list-style-type: none;
+}
+/* Making the list a flexbox */
+nav a {
+  font-weight: bold;
+  color: white;
+  justify-content: space-between;
+  font-size: 16px;
+  text-decoration: none;
+  padding: 20px;
+}
+
+.content {
+  flex: 1 1 auto;
+  padding: 0 2%;
+}
+
+.myWork .content {
+  flex-wrap: wrap;
+}
+
+.myWork a {
+  display: block;
+  flex: 1 0 50%;
+  position: relative;
+  padding: 1rem;
+}
+
+.myWork a:first-child {
+  flex: 1 0 100%;
+}
+
+.myWork img {
+  width: 100%;
+  object-fit: cover;
+  object-position: top;
+  height: 30rem;
+}
+/* setting the container to be a flex container */
+.container {
+  display: flex;
+}
+
+/* styling the a tags */
+a {
+  text-decoration: none;
+}
+/* Styling the about me section */
+.aboutMe {
+  /* background-color: #f2f3f4; */
+  padding: 15px;
+}
+#getSpacing {
+  padding: 15px;
+}
+
+/* styling the contact information section */
+.contactInfo {
+  text-align: center;
+  background-color: #7395ae;
+  padding: 10px;
+  display: inline;
+}
+/* Styling the images */
+
+/* .text {
+  position: absolute;
+  padding: 10px;
+} */
+/* styling the footer */
+footer {
+  padding: 10px;
+  text-align: center;
+  background: #5d5c61;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+@media screen and (min-width: 768px) {
+}
