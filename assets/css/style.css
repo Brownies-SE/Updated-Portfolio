@@ -87,10 +87,8 @@ a {
 
 /* styling the contact information section */
 .contactInfo {
-  text-align: center;
-  background-color: #7395ae;
+  /* background-color: #7395ae; */
   padding: 10px;
-  display: inline;
 }
 /* Styling the images */
 
@@ -105,6 +103,13 @@ footer {
   background: #5d5c61;
   color: white;
   display: flex;
+  justify-content: center;
+}
+
+.uList li {
+  justify-content: space-between;
+  list-style-type: none;
+  padding: 15px;
   justify-content: center;
 }
 
